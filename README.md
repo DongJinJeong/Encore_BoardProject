@@ -16,7 +16,7 @@
 ### Method 문서
 
 
-### > 화면
+> ### 화면
 <img src="https://user-images.githubusercontent.com/55942011/100632038-b3735a80-336f-11eb-93bc-9cc2aa8569f3.png">
 <img src="https://user-images.githubusercontent.com/55942011/100632066-b9693b80-336f-11eb-8b8d-d5325699a204.png">
 <img src="https://user-images.githubusercontent.com/55942011/100632149-d3a31980-336f-11eb-8be5-fe615bbfbbca.png">
