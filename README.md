@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/55942011/100682620-d9255180-33b9-11eb-949b-9f903ec38b03.png">
 
 ## Architecture Structure
-<img src="https://user-images.githubusercontent.com/55942011/100683975-c7917900-33bc-11eb-9eab-4183dd54c2e4.png">
+<img src="https://user-images.githubusercontent.com/55942011/103498629-cdc9b800-4e88-11eb-9dfc-a43b8522f9fc.png">
 
 ## Database Modeling
 <img src="https://user-images.githubusercontent.com/55942011/100631960-9f2f5d80-336f-11eb-8cca-ec50b44131b7.png">
